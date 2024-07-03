@@ -15,7 +15,7 @@ We can't stress this enough, we only have a single image provided by the Defcon 
 ![image](https://github.com/NilbinSec/DC32H4X0R-Badge/assets/85370905/386c521f-0f39-44dd-8058-292ed0594821)
 
 
-We are uncertain what the intent of these GPIO pins are for and what if any functionality they might have in the base badge. But with the risks, we wanted to make sure people that might need something like this have it available to interact with their badges. Just recognize that there is a risk anytime you start hacking one something.
+We are uncertain what the intent of these GPIO pins are for and what if any functionality they might have in the base badge. But with the risks, we wanted to make sure people that might need something like this have it available to interact with their badges. Just recognize that there is a risk anytime you start hacking on something.
 
 # USING THE MOMENTARY SWITCHES MAY DAMAGE YOUR DEFCON BADGE IN AN UNRECOVERABLE WAY YOU HAVE BEEN WARNED!
 
