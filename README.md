@@ -7,6 +7,8 @@ Did you see the latest announcement from Defcon about the badge this year? So di
 
 The gerber file has already been shared on OSHPark, and is probably the cheapest, quickest way to get yourself one of these badges before Defcon this year if you plan on working on the badge challenge.
 
+https://oshpark.com/shared_projects/B9nO6Rdw
+
 # USE AT YOUR OWN RISK
 We can't stress this enough, we only have a single image provided by the Defcon organizers https://x.com/defcon/status/1808279118477418640
 
